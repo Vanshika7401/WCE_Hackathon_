@@ -1,6 +1,16 @@
-# E-waste
+# Awm(All waste management)
 
-# PROBLEM STATEMENT:-  
+
+***WCE Hackathon 2022***
+
+By dotdeveloping team
+
+Problem Statement ID: **PS06**
+Problem Statement:  **E-waste management and disposal system using machine learning**
+
+
+# PROBLEM STATEMENT REDEFINED:-  
+
 Increase in E-waste in our nature leads to various problems and health hazards. 
 
 So, we the students of first year and we had tried to create a responsive E-commerce website where people can sell their E-waste. 
@@ -26,27 +36,32 @@ Basically in the website we will ask the user to create a profile and when he wa
 # Some clicks of Website
 
 # Login Portal
-![Screenshot (9)](https://user-images.githubusercontent.com/76553358/104849259-c8e81800-590e-11eb-9583-726d8c9116dc.png)
+![FIRST](https://user-images.githubusercontent.com/85017987/174870497-1390ae16-d4c6-488a-b807-54a8caccbb20.png)
 
 # Home
-![Screenshot (3)](https://user-images.githubusercontent.com/76553358/104849026-a43f7080-590d-11eb-9947-ed50a1fa5208.png)
+![2](https://user-images.githubusercontent.com/85017987/174870613-7999fc30-55b7-4ef1-9931-a004fad5d59b.png)
+
 
 # Product Description
-![Screenshot (4)](https://user-images.githubusercontent.com/76553358/104849119-1b750480-590e-11eb-9420-96a8f6d8fbd4.png)
+![3](https://user-images.githubusercontent.com/85017987/174870671-b2c9da04-6d09-47d1-8b54-5cc6115a60c6.png)
+
 
 # Selling Page
-![Screenshot (5)](https://user-images.githubusercontent.com/76553358/104849046-b6b9aa00-590d-11eb-9c8d-d7ae3b620b3d.png)
+![4](https://user-images.githubusercontent.com/85017987/174870720-d4d89bfc-51bf-4937-b797-32d8c66c5ad4.png)
+
 
 # FAQ
-![Screenshot (6)](https://user-images.githubusercontent.com/76553358/104849248-be2d8300-590e-11eb-93f9-22b24035a7cc.png)
+![faq1](https://user-images.githubusercontent.com/85017987/174871325-e7bcb713-1e9f-430c-8207-d5ca557a116b.png)
 
-![Screenshot (7)](https://user-images.githubusercontent.com/76553358/104849122-1e6ff500-590e-11eb-9f73-934dd91a9f77.png)
+![faq2](https://user-images.githubusercontent.com/85017987/174871360-b758f04b-8fae-4696-a923-63f6cb450570.png)
+
 
 # Navigation Bar
-![Screenshot (10)](https://user-images.githubusercontent.com/76553358/104849102-07c99e00-590e-11eb-867f-ddc12d4dee1c.png)
+![navigation](https://user-images.githubusercontent.com/85017987/174871696-46d9d173-5e9e-4067-b8be-b99bd577b0da.png)
 
 # Footer
-![Screenshot (8)](https://user-images.githubusercontent.com/76553358/104849099-04cead80-590e-11eb-9f7e-c4cc66b21f39.png)
+![footer](https://user-images.githubusercontent.com/85017987/174871737-8ab98c11-0af9-49e9-ba2e-f1c0b6051bda.png)
+
 
 
 
