@@ -31,6 +31,10 @@ This website consist of certain languages:-
 
 Basically in the website we will ask the user to create a profile and when he wants to sell his damaged products he has to made apply for it and has to send us the photos of damaged products so that we can verify it and we will be at his door offering them some money if we found that the product can be reused. Then after we will provide the same to those who will book that product by having our own margin between the transfer of products. Also we can ask people to recommend this website to other and we will give them points on the basis of their recommendation and also they will also get points when they give their products to us. And when they collect a particular number of point we will send them any voucher/ gift cards/ T-shirts etc. We will be generating a proper amount of margin so that we can pay the transfer charges to the workers. And we can also create another method of generating money by showing some advertisements to the people before they can apply form their products to be reviewed.
 
+# FLOWCHART OF THE WEBSITE
+![Screenshot (335)](https://user-images.githubusercontent.com/85017987/175103647-9368aa51-4147-43d5-be93-6ac87311e7b5.png)
+
+
 # Future endeavours
 
 We plan to incorporate a feature where right from the household itself waste can be segregated into what type of waste it is Plastic,E-waste,Bio-degradable etc.
