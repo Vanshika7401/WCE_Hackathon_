@@ -79,11 +79,11 @@ Automatically classifying the types of waste would effectively :
 *Reduce toxic waste ending in landfills
 
 
-#Waste classifier (Image upload)
+# WASTE CLASSIFIER(IMAGE UPLAOD):- 
 ![waste sorting 1](https://user-images.githubusercontent.com/85017987/175102841-98ba0b6b-637b-4aea-a782-ab628362f230.png)
 
 
-#Waste classifier (Result)
+# WASTE CLASSIFIER(RESULT):- 
 ![waste sorting 2](https://user-images.githubusercontent.com/85017987/175102857-dc8b874f-0836-45b8-a25e-4b7585e3654b.png)
 
 
