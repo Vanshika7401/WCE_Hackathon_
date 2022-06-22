@@ -69,11 +69,22 @@ When the user clicks teh photo of that waste our ML Model identifies the type of
 
 
 
+Other module of waste segregation (not incorporated in website as of now but fully working code) 
+We developed a ML Model that will develop a classifier to seperate waste into six classes : glass, paper, cardboard, plastic, metal, and trash based on their images.
+Automatically classifying the types of waste would effectively :
+
+*be an aid to the domestic sorting of waste
+*allow for a verification system at the time of waste collection
+*be integrated into sorting machines in recycling plants
+*Reduce toxic waste ending in landfills
 
 
+#Waste classifier (Image upload)
+![waste sorting 1](https://user-images.githubusercontent.com/85017987/175102841-98ba0b6b-637b-4aea-a782-ab628362f230.png)
 
 
-
+#Waste classifier (Result)
+![waste sorting 2](https://user-images.githubusercontent.com/85017987/175102857-dc8b874f-0836-45b8-a25e-4b7585e3654b.png)
 
 
 
